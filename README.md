@@ -1,2 +1,2 @@
 # techyjaunts-cnn
-This is for Deep Learning Classes
+This repo is for Deep Learning Classes
